@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Tomato",
+      "domestic": true,
+      "price": 30.5,
+      "weight": 150,
+      "description": "The species originated in western South America and Central America. The Nahuatl (the language used by the Aztecs) word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived."
+    },
+    {
+      "name": "Apple",
+      "domestic": true,
+      "price": 14.5,
+      "description": "Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today."
+    },
+    {
+      "name": "Banana",
+      "domestic": false,
+      "price": 22.0,
+      "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called plantains, distinguishing them from dessert bananas."
+    }
+  ]
